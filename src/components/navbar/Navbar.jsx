@@ -25,6 +25,13 @@ const Navbar = () => {
           >
             <img src="/LinkedIn.png" alt="" />
           </a>
+          <a
+            href="https://www.buymeacoffee.com/KixKira"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src="/coffee-cup.png" alt="" />
+          </a>
         </div>
       </div>
     </div>
